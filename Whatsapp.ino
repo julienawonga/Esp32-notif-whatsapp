@@ -1,11 +1,11 @@
 #include <WiFi.h>         //Including wifi.h library it will take care of all wifi related task
 #include <HTTPClient.h>   //Including HTTPClient.h library to use all api
 
-const char* ssid = "kingbeka";             //Add your WiFi ssid
-const char* password =  "Wensleykib92@";    //Add your WiFi password
+const char* ssid = "xxxx";             //Add your WiFi ssid
+const char* password =  "xxxx";    //Add your WiFi password
 
-String apiKey = "556708";              //Add your Token number that bot has sent you on WhatsApp messenger
-String phone_number = "+212643683607"; //Add your WhatsApp app registered phone number (same number that bot send you in url)
+String apiKey = "xxxx";              //Add your Token number that bot has sent you on WhatsApp messenger
+String phone_number = "xxxx"; //Add your WhatsApp app registered phone number (same number that bot send you in url)
 
 String url;                            //url String will be used to store the final generated URL
 
