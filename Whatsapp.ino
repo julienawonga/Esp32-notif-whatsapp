@@ -28,7 +28,7 @@ void setup()
 
 void loop()
 {
-  //loop will do nothing for this example
+  //main loop will do nothing for this example 
 }
 
 void  message_to_whatsapp(String message)       // user define function to send meassage to WhatsApp app
