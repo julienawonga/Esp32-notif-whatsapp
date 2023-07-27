@@ -1,5 +1,5 @@
 
-# Using ESP32 to Send Message to Whatsapp
+# Using ESP32 to Send Notification to Whatsapp
 
 This project was developed for the final year project. It involves building a security system that sends a message to WhatsApp via ESP32 when an event occurs.
 
