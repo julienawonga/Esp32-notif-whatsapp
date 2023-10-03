@@ -5,7 +5,7 @@ This project was developed for the final year project. It involves building a se
 
 ## Installation
 
-To use this code, follow the steps below:
+To use this code, follow the steps below :
 
 1.  Clone the repository: `git clone https://github.com/julienawon/Esp32-notif-whatsapp.git`
 2.  Install the necessary libraries:
