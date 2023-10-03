@@ -12,7 +12,7 @@ To use this code, follow the steps below :
     -   WiFi.h
     -   HTTPClient.h
 3.  Add your WiFi SSID and password in the code.
-4.  Add your WhatsApp app registered phone number and token number that the bot has sent you on WhatsApp messenger.
+4.  Add your WhatsApp app registered phone number and token number that the bot has sent you on WhatsApp messenger .
 5.  Upload the code to your ESP32.
 
 ## Usage
